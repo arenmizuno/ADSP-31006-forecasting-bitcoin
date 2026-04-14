@@ -1,4 +1,4 @@
-# ADSP 31006 – Time Series Analysis and Forecasting - Forecasting Bitcoin
+# ADSP 31006 – Time Series Analysis and Forecasting - Final Project: Forecasting Bitcoin
 
 **University of Chicago**  
 **Instructor:** Arnab Bose  
