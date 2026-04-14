@@ -11,7 +11,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 This repository contains my final project for *ADSP 31006: Time Series Analysis and Forecasting*, a course focused on modeling and forecasting time-dependent data using statistical and computational methods.
 
 Time series analysis is both a science and an art of making informed predictions based on historical data. This course emphasized theoretical foundations of time series models, hands-on implementation in statistical software, and communicating results effectively to different audiences.
